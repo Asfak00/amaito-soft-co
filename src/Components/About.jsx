@@ -30,7 +30,8 @@ const About = () => {
               maiores! Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Et deserunt a ab illum distinctio, veniam corporis, harum voluptas
               explicabo consectetur rem voluptatum nulla aliquid reprehenderit
-              quas nostrum dolorem cumque quo.
+              quas nostrum dolorem cumque quo. Lorem, ipsum dolor sit amet
+              consectetur adipisicing elit. Excepturi, maxime!
             </p>
 
             <div>
